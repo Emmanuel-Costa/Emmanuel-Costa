@@ -2,7 +2,7 @@
 
 I am a student from Brazil following his dream of becoming a developer
 
-- 🌱 I’m currently learning Kotlin to use on android developing
+- 🌱 I’m currently learning Kotlin to use on android development
 
 <br>
 
