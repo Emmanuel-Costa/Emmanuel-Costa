@@ -8,7 +8,7 @@ I am a student from Brazil following his dream of becoming a developer
 
 ## Connect with me
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]
+<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 (https://www.linkedin.com/in/emmanuel-costa-93480a171/)
 
 <br>
